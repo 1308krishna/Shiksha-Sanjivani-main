@@ -1,0 +1,66 @@
+name: classinsight
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_storage: 
+  firebase_core: 
+  firebase_auth: 
+  cloud_firestore: 
+  firebase_core_web:
+  multi_select_flutter:
+  get:
+  google_fonts: ^6.2.1 
+  get_storage:
+  intl:
+  mailer:
+
+    
+
+
+  cupertino_icons: 
+  font_awesome_flutter:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+  flutter_native_splash:
+
+dependency_overrides:
+  web:
+
+  
+flutter_launcher_icons:
+  image_path: "lib/assets/ClassInsightLogo.png"
+  android: true    
+  ios: true
+  adaptive_icon_background: "#FFFFFF"
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "lib/assets/ic_launcher-web.png"
+  android: true
+  ios: true  
+
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - .env
+    
+  
+
+
+

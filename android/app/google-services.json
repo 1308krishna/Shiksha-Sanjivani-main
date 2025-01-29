@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62854215094",
+    "project_id": "equalink-app",
+    "storage_bucket": "equalink-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62854215094:android:6ed5d795f55f4351f7bd17",
+        "android_client_info": {
+          "package_name": "com.example.classinsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62854215094-d12apbuhojm6d9qkn896v2629v7m1ig8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIHn4Ym8xRd8aQtib2aw-PWx4moLLpGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62854215094-d12apbuhojm6d9qkn896v2629v7m1ig8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
